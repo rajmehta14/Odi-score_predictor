@@ -1,0 +1,1 @@
+This project delves into the exciting realm of predicting cricket match scores for One-Day Internationals (ODIs) by leveraging the power of machine learning. It employs the robust Random Forest algorithm, renowned for its accuracy and handling of complex datasets.
